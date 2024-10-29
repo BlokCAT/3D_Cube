@@ -12,5 +12,9 @@
 
 使用简易光栅有助于理解光栅化的全流程，类似一个框架， 为之后大型的软光栅开发提供思路
 
+## 演示
+
+参考b站 ：https://www.bilibili.com/video/BV1ZJS8YLETM/
+
 
 
